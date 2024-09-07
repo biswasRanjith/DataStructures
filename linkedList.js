@@ -199,13 +199,13 @@ list.prepend(13)
 list.insert(30,3);
 list.print();
 
-// list.removeFrom(1);
-// list.print();
+list.removeFrom(1);
+list.print();
 
-// list.removeValue(11)
-// list.print();
+list.removeValue(11)
+list.print();
 
-// console.log(list.search(12));
+console.log(list.search(12));
 
 list.reverse();
 list.print();
